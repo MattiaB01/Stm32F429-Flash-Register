@@ -1,0 +1,6 @@
+flash.c:21:6:unlock	4	static
+flash.c:37:6:erase_sec11	4	static
+flash.c:71:6:program	24	static
+flash.c:143:6:program_8	24	static
+flash.c:177:6:read	32	static
+flash.c:195:6:lock	4	static

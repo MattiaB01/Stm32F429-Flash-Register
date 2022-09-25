@@ -1,0 +1,2 @@
+stm32f4xx_hal_msp.c:64:6:HAL_MspInit	16	static
+stm32f4xx_hal_msp.c:93:6:HAL_WWDG_MspInit	24	static
